@@ -1,0 +1,489 @@
+DATA;TIPO;EMPRESA/ÓRGÃO;Analistas;Instalacao;Municipio
+31/01/2019;PP;IDAF;Jorge;;Vitória
+01/02/2019;GC;Porto de Vila Velha ;Amanda;;Vila Velha 
+01/02/2019;GC;Alcon;Henrique;;Conceição da Barra
+01/02/2019;PP;SEDEC ;Rampazzo;;Vitória
+01/02/2019;PP;Secretaria do Estado de Saúde ;Rampazzo;;Vitória
+01/02/2019;PP;Secretaria do Estado de Saúde ;Jorge;;Vitória
+01/02/2019;PP;SEDURB;Rampazzo;;Santa Teresa
+01/02/2019;GC;Taniaço Distribuidora de Aço;Valdirene;160362567;Serra
+04/02/2019;GC;DJ Granitos e Mineração Thomazini;Henrique;160474460/9501834;Vila Pavão
+04/02/2019;GC;DJ Granitos e Mineração Thomazini;Elaine;160474460/9501834;Vila Pavão
+04/02/2019;PP;Prefeitura Municipal de Santa Maria;Amanda;;Santa Maria 
+04/02/2019;PP;Prefeitura Municipal de Santa Maria;Nercilene;;Santa Maria 
+04/02/2019;GC;Milanez Emilaneze ;Valdirene;;Serra
+04/02/2019;GC;Milanez Emilaneze ;Marcos;;Serra
+04/02/2019;PP;Secretária de Desenvolvimento ;Jorge;;Vitória
+05/02/2019;GC;Centro Médico Hospitalar de Vila Velha ;Elaine;9502216;Vila Velha 
+05/02/2019;GC;ZOPONE;Marcilene;;Vitória
+05/02/2019;GC;ZOPONE;Hevelyse;;Vitória
+05/02/2019;GC;Telefônica/Consultor ;Marcilene;;Vitória
+05/02/2019;GC;Telefônica/Consultor ;Hevelyse;;Vitória
+05/02/2019;GC;Vale;Amanda;;Vitória 
+05/02/2019;GC;Venac ;Luciangela ;9500923;Viana
+05/02/2019;GC;Venac ;Elaine;9500924;Viana
+05/02/2019;GC;Grupo Icaraí ;Elaine;;Nova Venécia 
+05/02/2019;GC;Grupo Icaraí ;Jorge;;Nova Venécia 
+05/02/2019;PP;Procon;Jorge;;Vitória
+06/02/2019;GC;Companhia de Café Solúvel ;Amanda;;Vitória
+06/02/2019;GC;Companhia de Café Solúvel ;Jorge;;Vitória
+06/02/2019;GC;Dacaza Granitos;Valdirene;9500504;Vitória
+06/02/2019;GC;Cristovão Brunoro;Marcos;;Castelo
+06/02/2019;PP;Prefeitura Municipal da Serra;Valdirene;;Serra
+06/02/2019;GC;BRK Ambiental ;Marcos;9502227;Cachoeiro de Itapemirim
+06/02/2019;GC;BRK Ambiental ;Marcilene;9502227;Cachoeiro de Itapemirim
+06/02/2019;GC;BRK Ambiental ;Marcos;9500846;Cachoeiro de Itapemirim
+06/02/2019;GC;BRK Ambiental ;Marcilene;9500846;Cachoeiro de Itapemirim
+06/02/2019;GC;ECO 101;Marcilene;;Guarapari 
+06/02/2019;GC;SAAE;Henrique;;Aracruz
+06/02/2019;GC;SAAE;Luciangela ;;Aracruz
+06/02/2019;GC;SAAE;Hevelyse;;Aracruz
+07/02/2019;GC;ESTEL;Henrique;;Aracruz
+07/02/2019;GC;ESTEL;Jorge;;Aracruz
+07/02/2019;PP;Prefeitura Municipal de Presidente Kennedy ;Marcilene;;Presidente Kennedy 
+07/02/2019;PP;Prefeitura Municipal de Presidente Kennedy ;Rampazzo;;Presidente Kennedy 
+07/02/2019;GC;Chemtrade;Henrique;;Aracruz
+07/02/2019;GC;Chemtrade;Jorge;;Aracruz
+07/02/2019;GC;Shopping Oriundi;Henrique;;Aracruz
+07/02/2019;GC;Shopping Oriundi;Jorge;;Aracruz
+07/02/2019;GC;Ilhas Pães;Valdirene;;Vitória 
+08/02/2019;PP;DER-ES;Patrícia;;Vitória
+08/02/2019;PP;UFES;Marcilene;;Vitória
+08/02/2019;PP;UFES;Amanda;;Vitória
+08/02/2019;PP;TRT;Amanda;;Vitória
+08/02/2019;PP;TRT;Henrique;;Vitória
+08/02/2019;GC;Pessini ;Amanda;;Vila Velha 
+08/02/2019;GC;Pessini ;Henrique;;Vila Velha 
+08/02/2019;PP;Secretaria Estado de Governo ;Rampazzo;;Vitória
+08/02/2019;PP;Secretaria Estado de Governo ;Jorge;;Vitória
+08/02/2019;GC;Denysavio Zuculoco;Vitor Tose;;Linhares
+11/02/2019;GC;Lafargeholcim;Amanda;;Serra
+11/02/2019;GC;Lafargeholcim;Jorge;;Serra
+11/02/2019;GC;FORTLEV/Nova Forma;Amanda;;Serra
+11/02/2019;GC;FORTLEV/Nova Forma;Jorge;;Serra
+11/02/2019;GC;Wine;Patrícia;;Vitória 
+11/02/2019;GC;ECO Real;Patrícia;;Vila Velha
+11/02/2019;GC;Sorvedoce ;Patrícia;;Vila Velha 
+12/02/2019;GC;Biancogres;Henrique;;Vitória
+12/02/2019;GC;Biancogres;Amanda;;Vitória
+12/02/2019;GC;SAAE;Hevelyse;;Alegre
+12/02/2019;GC;Saiter ;Henrique;;Linhares
+12/02/2019;GC;CSD Centro Sul, Consultor, Edificios;Patrícia;;Centro Sul 
+12/02/2019;GC;CSD Centro Sul, Consultor, Edificios;Mariana;;Centro Sul 
+12/02/2019;PP;Prefeitura Municipal de Divino São Lourenço ;Rampazzo;;Divino São Lourenço 
+12/02/2019;PP;Prefeitura Municipal de Divino São Lourenço ;Elaine;;Divino São Lourenço 
+13/02/2019;GC;Simol Indústria de Móveis;Amanda;;Linhares
+13/02/2019;GC;Simol Indústria de Móveis;Henrique;;Linhares
+13/02/2019;GC;Cesan;Elaine;;Vitória
+13/02/2019;PP;Prefeitura De Pinheiros ;Rampazzo;;Pinheiros
+13/02/2019;PP;Prefeitura De Pinheiros ;Elaine;;Pinheiros
+13/02/2019;GC;TAC Construtora;Amanda;;Linhares
+13/02/2019;GC;TAC Construtora;Henrique;;Linhares
+14/02/2019;GC;Mineração Zanquetto;Elaine;9500916;Cachoeiro de Itapemirim
+14/02/2019;GC;Mineração Zanquetto;Luciangela ;9500916;Cachoeiro de Itapemirim
+14/02/2019;GC;Distribuidora de Bebidas e Alimentos;Patrícia;129299;Serra
+14/02/2019;GC;Câmara de Baixo Guandu ;Amanda;;Baixo Guandu 
+14/02/2019;GC;Câmara de Baixo Guandu ;Henrique;;Baixo Guandu 
+14/02/2019;GC;Câmara de Baixo Guandu ;Marcilene;;Baixo Guandu 
+14/02/2019;GC;CBF;Amanda;;João Neiva
+14/02/2019;GC;CBF;Henrique;;João Neiva
+14/02/2019;GC;Magnitos Granitos ;Eliane;160351710;Cachoeiro de Itapemirim
+14/02/2019;GC;Lucas Dalminic Batista e UVV;Patrícia;;Vila Velha 
+15/02/2019;PP;SETRAN;Patrícia;;Vitória
+15/02/2019;GC;SEVI - Sociedade Educacional de Vitória;Patrícia;160718594;Vitória
+15/02/2019;GC;Alupar ;Amanda;;Rio Novo do Sul
+15/02/2019;GC;Alupar ;Henrique;;Rio Novo do Sul
+15/02/2019;GC;Wine;Luciangela ;160563034;Vitória
+15/02/2019;GC;Wine;Elaine;160563034;Vitória
+15/02/2019;GC;Ponto Sports Academia;Patrícia;;Vila Velha
+15/02/2019;GC;Ponto Sports Academia;Débora;;Vila Velha
+15/02/2019;GC;Itapuã Supermercado Perim ;Patrícia;;Cariacica
+18/02/2019;GC;Suzano/Fibria;Henrique;;Aracruz
+18/02/2019;GC;Vale;Amanda;;Ibiraçu 
+18/02/2019;GC;Maxcor;Amanda;;Linhares
+18/02/2019;GC;Agrofit;Luciangela ;9502781;Vila Velha 
+18/02/2019;GC;Agrofit;Elaine;9502781;Vila Velha 
+19/02/2019;GC;Nutriaves;Amanda;;Viana
+19/02/2019;PP;Prefeitura de Laranja da Terra;Amanda;;Laranja da Terra
+19/02/2019;GC;Liberum Energia ;Amanda;;Cariacica
+19/02/2019;GC;Liberum Energia ;Henrique;;Cariacica
+19/02/2019;GC;Expolio de Calixto Dagostini;Henrique;160341113;Linhares
+19/02/2019;GC;Expolio de Calixto Dagostini;Marcilene;160341113;Linhares
+20/02/2019;GC;TRT;Henrique;;Vitória 
+20/02/2019;GC;TRT;Amanda;;Vitória 
+20/02/2019;GC;Genivaldo Bassini;Henrique;160392187;Linhares
+20/02/2019;GC;Massas Villoni;Luciangela ;9501037;Viana 
+20/02/2019;GC;Massas Villoni;Elaine;9501037;Viana 
+21/02/2019;GC;DMA ;Amanda;;Cachoeiro de Itapemirim
+21/02/2019;GC;DMA ;Vitor Tose;;Cachoeiro de Itapemirim
+21/02/2019;GC;DMA ;Amanda;;Serra
+21/02/2019;GC;DMA ;Vitor Tose;;Serra
+21/02/2019;GC;Shopping Praia da Costa;Amanda;;Vila Velha 
+21/02/2019;PP;Prefeitura Municipal de Aracruz;Amanda;;Aracruz
+21/02/2019;PP;Prefeitura Municipal de Aracruz;Henrique;;Aracruz
+21/02/2019;GC;Saiter ;Henrique;;Linhares
+21/02/2019;GC;ECO 101;Amanda;1602290551;Pedro Canário 
+21/02/2019;GC;ECO 101;Henrique;1602290551;Pedro Canário 
+21/02/2019;GC;ECO 101;Marcilene;1602290551;Pedro Canário 
+21/02/2019;GC;Nacional Gás;Luciangela ;9502154;Serra
+21/02/2019;GC;Nacional Gás;Elaine;9502154;Serra
+21/02/2019;PP;Prefeitura Municipal de Viana;Rampazzo;;Viana
+21/02/2019;PP;Prefeitura Municipal de Viana;Elaine;;Viana
+21/02/2019;PP;Prefeitura Municipal de Viana;Patrícia;;Viana
+21/02/2019;GC;Inspetech;Patrícia;;Serra
+21/02/2019;GC;Inspetech;Débora;;Serra
+22/02/2019;PP;Prefeitura Municipal da Serra;Patrícia;;Serra
+22/02/2019;PP;Prefeitura Municipal da Serra;Mariana;;Serra
+22/02/2019;GC;Wine;Patrícia;;Serra
+22/02/2019;GC;Wine;Mariana;;Serra
+25/02/2019;PP;Prefeitura Municipal da Serra;Mariana;;Serra
+25/02/2019;GC;Vitória Apart;Amanda;;Serra
+25/02/2019;GC;Vitória Apart;Henrique;;Serra
+25/02/2019;GC;Fibrasa;Amanda;;Serra
+25/02/2019;GC;Fibrasa;Henrique;;Serra
+25/02/2019;GC;Fundação São João Batista;Amanda;;Aracruz
+25/02/2019;GC;Prefeitura Municipal de Itarana ;Rampazzo;;Itarana
+26/02/2019;GC;Vitória Apart;Amanda;;Serra
+26/02/2019;GC;CRC;Amanda;;Serra
+26/02/2019;PP;Prefeitura Municipal de Vitória ;Mariana;;Vitória
+26/02/2019;PP;Prefeitura Municipal de Vitória ;Débora;;Vitória
+26/02/2019;GC;Líder Comunitário - Cidade Nova da serra;Hevelyse;;Serra
+27/02/2019;PP;Prefeitura Municipal de Linhares;Amanda;;Linhares
+27/02/2019;GC;Brametal;Amanda;;Linhares
+27/02/2019;GC;Giucafé;Amanda;;Linhares
+27/02/2019;GC;Weg ;Amanda;;Linhares
+27/02/2019;GC;Provale ;Elaine;9500132;Cachoeiro de Itapemirim
+27/02/2019;GC;Provale ;Elaine;9501419;Cachoeiro de Itapemirim
+27/02/2019;GC;Provale ;Elaine;9501454;Cachoeiro de Itapemirim
+27/02/2019;GC;Provale ;Elaine;9502831;Cachoeiro de Itapemirim
+27/02/2019;GC;Mineração Zanquetto;Luciangela ;9500916;Cachoeiro de Itapemirim
+27/02/2019;GC;Mineração Zanquetto;Elaine;9500916;Cachoeiro de Itapemirim
+27/02/2019;GC;Gramazini;Henrique;;Barra de São Francisco 
+27/02/2019;GC;HC Granitos;Henrique;;Barra de São Francisco 
+27/02/2019;GC;LGR Granitos ;Henrique;;Barra de São Francisco 
+27/02/2019;GC;Comil Cotaxe;Henrique;;Barra de São Francisco 
+27/02/2019;GC;Ultragaz/Nutrigas;Henrique;;Barra de São Francisco 
+27/02/2019;GC;Mundial Granitos;Henrique;;Barra de São Francisco 
+27/02/2019;GC;Mitra Arquidiocesana;Patrícia;;Vila Velha
+27/02/2019;GC;Mitra Arquidiocesana;Débora;;Vila Velha
+27/02/2019;GC;Universal Mineração;Henrique;9500911;Barra de São Francisco 
+27/02/2019;GC;Granales;Henrique;9502159;Barra de São Francisco 
+27/02/2019;GC;Pemagran;Henrique;160127158;Barra de São Francisco 
+27/02/2019;GC;Polistones ;Henrique;160181445;Barra de São Francisco 
+27/02/2019;GC;Fortuna Granitos;Henrique;;Nova Venécia 
+27/02/2019;GC;IFES;Henrique;160338218;Barra de São Francisco 
+27/02/2019;GC;Tracomal ;Marcilene;;Guarapari 
+28/02/2019;GC;Best Western Hotel ;Henrique;;Linhares
+28/02/2019;GC;Siderúrgica Santa Barbara ;Patrícia;9501331;Serra
+28/02/2019;GC;Nort Palace Hotel ;Henrique;160411553;São Mateus
+28/02/2019;GC;Prefeitura Municipal de Montanha ;Rampazzo;;Montanha 
+28/02/2019;GC;Prefeitura Municipal de Montanha ;Elaine;;Montanha 
+28/02/2019;GC;Multivix ;Patrícia;;Vila Velha
+01/03/2019;GC;TRT;Henrique;;Vitória
+01/03/2019;GC;TRT;Amanda;;Vitória
+01/03/2019;GC;Alcon;Amanda;;Conceição da Barra
+01/03/2019;GC;Nilson Alves;Henrique;;Montanha 
+01/03/2019;GC;Centro Educacional Castro Alves;Mariana;;Vila Velha
+01/03/2019;GC;Centro Educacional Castro Alves;Luciangela ;;Vila Velha
+07/03/2019;GC;Sorvedoce ;Valdirene;;Vila Velha 
+07/03/2019;GC;Sorvedoce ;Patrícia;;Vila Velha 
+07/03/2019;GC;Plasfort Industria ;Patrícia;160362567;Serra
+07/03/2019;GC;Plasfort Industria ;Débora;160362567;Serra
+07/03/2019;GC;SEDES;Patrícia;160077724;Vitória 
+07/03/2019;GC;SEDES;Valdirene;160077724;Vitória 
+08/03/2019;GC;Eronildes Da Silva Rocha - Academia Ponto Sports;Valdirene;;Vila Velha 
+08/03/2019;GC;Eronildes Da Silva Rocha - Academia Ponto Sports;Débora;;Vila Velha 
+11/03/2019;PP;Himaba;Elaine;;Vila Velha
+11/03/2019;GC;SEDES UVV;Patrícia;;Vila Velha 
+11/03/2019;GC;SEDES UVV;Mariana;;Vila Velha 
+11/03/2019;GC;SEDES UVV;Valdirene;;Vila Velha 
+11/03/2019;GC;Billiz Industria - Drogaria Pacheco;Valdirene;9502701;Vitória
+11/03/2019;PP;SETADES;Valdirene;;Vitória
+11/03/2019;PP;SETADES;Jorge;;Vitória
+11/03/2019;GC;Biancogres;Amanda;;Serra
+11/03/2019;GC;Brametal;Henrique;;Linhares
+11/03/2019;GC;Itacar;Elaine;152796;Guaçuí
+11/03/2019;GC;Itacar;Marcos;152796;Guaçuí
+11/03/2019;PP;Prefeitura Municipal de Marataizes;Marcilene;1886832;Marataizes 
+11/03/2019;PP;Prefeitura Municipal de Marataizes;Milla;1886832;Marataizes 
+12/03/2019;GC;Petrocity;Amanda;;São Mateus
+12/03/2019;GC;Petrocity;Henrique;;São Mateus
+12/03/2019;GC;LA Mármores e Granitos ;Marcilene;9502096;Itapemirim
+12/03/2019;GC;LA Mármores e Granitos ;Penha;9502096;Itapemirim
+13/03/2019;PP;Prefeitura Municipal de Pedro Canário ;Elaine;;Pedro Canário 
+13/03/2019;PP;Prefeitura Municipal de Pedro Canário ;Henrique;;Pedro Canário 
+13/03/2019;PP;Prefeitura Municipal de Pedro Canário ;Valdirene;;Pedro Canário 
+13/03/2019;GC;Serra Park;Juliene;;Serra
+13/03/2019;GC;Serra Park;Eliane;;Serra
+13/03/2019;PP;Secretaria Municipal de Serviços Urbanos ;Marcos;;Castelo
+13/03/2019;PP;Prefeitura Municipla de Cachoeiro de Itapemirim ;Marcos;;Cachoeiro de Itapemirim
+13/03/2019;PP;Prefeitura Municipla de Cachoeiro de Itapemirim ;Amanda;;Cachoeiro de Itapemirim
+13/03/2019;PP;Prefeitura Municipla de Cachoeiro de Itapemirim ;Jorge;;Cachoeiro de Itapemirim
+13/03/2019;PP;Prefeitura Municipla de Cachoeiro de Itapemirim ;Luciangela ;;Cachoeiro de Itapemirim
+13/03/2019;PP;Prefeirura Municipal de Guarapari ;Marcos;;Guarapari
+13/03/2019;PP;Prefeirura Municipal de Guarapari ;Jorge;;Guarapari
+13/03/2019;PP;Prefeirura Municipal de Guarapari ;Amanda;;Guarapari
+13/03/2019;PP;Prefeirura Municipal de Guarapari ;Luciangela ;;Guarapari
+13/03/2019;PP;SECTI;Valdirene;;Vitória
+13/03/2019;PP;SECTI;Patrícia;;Vitória
+14/03/2019;GC;Hospital Meridional;Patrícia;;Cariacica
+14/03/2019;GC;Hospital Meridional;Valdirene;;Cariacica
+14/03/2019;PP;SESA - Secretaria da Saúde;Valdirene;;Vitória 
+14/03/2019;PP;SESA - Secretaria da Saúde;Mariana;;Vitória 
+14/03/2019;GC;Toniação Distribuição de Aço;Valdirene;160362567;Serra
+14/03/2019;GC;PM de Vila Velha;Valdirene;;Vila Velha 
+14/03/2019;GC;Dalla Bernadina;Valdirene;160415423;Serra
+14/03/2019;GC;Wellington Menelli;Henrique;;Linhares
+14/03/2019;GC;Wellington Menelli;Marcilene;;Linhares
+14/03/2019;PP;Prefeitura Municipal de Venda Nova ;Marcos;;Venda Nova
+14/03/2019;PP;Prefeitura Municipal de Venda Nova ;Amanda;;Venda Nova
+14/03/2019;PP;Prefeitura Municipal de Venda Nova ;Jorge;;Venda Nova
+14/03/2019;PP;Prefeitura Municipal de Venda Nova ;Luciangela ;;Venda Nova
+15/03/2019;GC;Dall'orto Calvi & cia ltda;Valdirene;;Vila Velha 
+15/03/2019;GC;Igreja Cristã Maranata ;Valdirene;;Vitória 
+15/03/2019;GC;Serra Park;Valdirene;;Serra
+15/03/2019;GC;Itacar Itapemirim;Elaine;;Guaçuí
+15/03/2019;GC;Itacar Itapemirim;Marcos;;Guaçuí
+15/03/2019;GC;Itacar Itapemirim;Luciangela ;;Guaçuí
+18/03/2019;GC;Andrade Gutierrez;Valdirene;;Vitória
+18/03/2019;GC;SESC - Praia Formosa;Amanda;;Aracruz
+18/03/2019;GC;ArcelorMittal;Amanda;;Serra
+18/03/2019;GC;ArcelorMittal;Henrique;;Serra
+18/03/2019;PP;DER ;Patrícia;;Vitória
+18/03/2019;GC;Banestes;Marcilene;;Vitória
+18/03/2019;GC;Zopone ;Marcilene;;Vitória
+18/03/2019;GC;Zopone ;Hevelyse;;Vitória
+19/03/2019;GC;LHL Empreendimentos;Valdirene;1473282;Vitória
+19/03/2019;GC;Unimed;Amanda;;Vitória
+19/03/2019;GC;Unimed;Marcos;;Vitória
+19/03/2019;GC;BK Engenharia ;Henrique;;Linhares
+20/03/2019;GC;TSA - Vallourec;Henrique;;Serra
+20/03/2019;GC;TSA - Vallourec;Amanda;;Serra
+20/03/2019;GC;Novapol;Amanda;;Serra
+20/03/2019;GC;Novapol;Henrique;;Serra
+20/03/2019;GC;Cyber Armazenagem e Logística ;Valdirene;9502600;serra
+20/03/2019;PP;DER ;Patrícia;;Vitória
+20/03/2019;PP;Prefeitura Municipal de Vila Pavão;Rampazzo;;Vila Pavão
+20/03/2019;PP;Secretaria De Nova Venecia ;Rampazzo;;Nova Venécia 
+21/03/2019;GC;Fernando Venturim Borgo ;Amanda;;Montanha 
+21/03/2019;GC;Fernando Venturim Borgo ;Luciene;;Montanha 
+21/03/2019;GC;IFES;Valdirene;;Serra
+21/03/2019;GC;IFES;Juliene;;Serra
+21/03/2019;GC;IFES;Patrícia;;Serra
+21/03/2019;PP;Secretaria De Obras;Rampazzo;;Linhares
+21/03/2019;PP;Secretaria De Planejamento;Rampazzo;;Linhares
+22/03/2019;GC;SBT Engenharia;Amanda;;Alfredo Chaves
+22/03/2019;GC;Pettrus;Amanda;;Cachoeiro de Itapemirim
+22/03/2019;GC;Pettrus;Marcos;;Cachoeiro de Itapemirim
+22/03/2019;GC;Fernando Ferreira de Oliveira ;Amanda;;Cachoeiro de Itapemirim
+22/03/2019;GC;Fernando Ferreira de Oliveira ;Marcos;;Cachoeiro de Itapemirim
+22/03/2019;GC;Fernando Ferreira de Oliveira ;Milla;;Cachoeiro de Itapemirim
+22/03/2019;PP;Prefeitura Municipal de Aracruz;Amanda;;Aracruz
+22/03/2019;PP;Prefeitura Municipal de Aracruz;Rampazzo;;Aracruz
+22/03/2019;PP;Prefeitura Municipal de Aracruz;Eliane;;Aracruz
+22/03/2019;GC;CS3;Amanda;;Cachoeiro de Itapemirim
+22/03/2019;GC;CS3;Marcos;;Cachoeiro de Itapemirim
+22/03/2019;GC;CS3;Milla;;Cachoeiro de Itapemirim
+22/03/2019;GC;Recauchutadora Colatinense;Valdirene;9501089;Cariacica
+22/03/2019;GC;Recauchutadora Colatinense;Mariana;9501089;Cariacica
+25/03/2019;GC;VAMTEC ;Valdirene;9501035;Serra
+25/03/2019;GC;VAMTEC ;Juliene;9501035;Serra
+25/03/2019;GC;Cond. Edifício Pietra;Valdirene;;Vitória
+25/03/2019;GC;Cond. Edifício Pietra;Mariana;;Vitória
+25/03/2019;GC;Cond. Edifício Pietra;Marcos;;Vitória
+25/03/2019;GC;Samarco;Henrique;;Guarapari 
+25/03/2019;GC;Samarco;Amanda;;Guarapari 
+25/03/2019;GC; Itacar;Marcos;152796;Guaçuí
+26/03/2019;GC;Mitra Arquidiocesana;Valdirene;;Vitória 
+26/03/2019;GC;Adelson ;Henrique;;Laranja da Terra
+26/03/2019;GC;Saiter ;Henrique;;Linhares
+26/03/2019;GC;Fazenda Estrela do Norte ;Henrique;160634916;Pedro Canário 
+26/03/2019;PP;Prefeitura Municipal de Itapemirim;Rampazzo;;Itapemirim
+26/03/2019;PP;Prefeitura Municipal de Itapemirim;Marcilene;;Itapemirim
+26/03/2019;GC;Cervejaria Teresina;Henrique;;Itarana
+26/03/2019;GC;Cervejaria Teresina;Luciene;;Itarana
+26/03/2019;GC;Dimensão Granitos;Marcos;95011382;Cachoeiro de Itapemirim
+26/03/2019;GC;Placas do Brasil ;Amanda;;Conceição da Barra
+26/03/2019;GC;Pettrus;Amanda;;Cachoeiro de Itapemirim
+26/03/2019;PP;Secretária de Administração ;Rampazzo;;Vila Velha
+27/03/2019;GC;Serra Park ;Mariana;;serra
+27/03/2019;GC;Serra Park ;Valdirene;;serra
+27/03/2019;GC;Serra Park ;Juliene;;serra
+27/03/2019;PP;Prefeitura Municipal de Jeronimo Monteiro ;Luciangela ;;Jeronimo Monteiro 
+27/03/2019;PP;Prefeitura Municipal de Jeronimo Monteiro ;Marcos;;Jeronimo Monteiro 
+27/03/2019;PP;SETADES;Valdirene;;Vitória
+27/03/2019;PP;Assembléia Legislativa do ES;Rampazzo;;Vitória 
+27/03/2019;PP;Assembléia Legislativa do ES;Marcos;;Vitória 
+27/03/2019;PP;Prefeitura Municipla de Laranja da Terra;Henrique;;Laranja da Terra
+27/03/2019;PP;Prefeitura Municipla de Laranja da Terra;Luciene;;Laranja da Terra
+27/03/2019;PP;Prefeitura Municipla de Laranja da Terra;Jorge;;Laranja da Terra
+27/03/2019;GC;Robson Otto ;Amanda;250848;Santa Maria de Jetibá
+27/03/2019;GC;Robson Otto ;Luciene;250848;Santa Maria de Jetibá
+27/03/2019;GC;Pettrus;Amanda;;Cachoeiro de Itapemirim
+27/03/2019;GC;Pettrus;Marcos;;Cachoeiro de Itapemirim
+27/03/2019;GC;Pettrus;Henrique;;Cachoeiro de Itapemirim
+27/03/2019;GC;Volare;Henrique;160408690;São Mateus
+27/03/2019;GC;Volare;Amanda;160408690;São Mateus
+27/03/2019;GC;Volare;Jorge;160408690;São Mateus
+28/03/2019;PP;Prefeitura Municipal de Santa Maria de Jetibá;Amanda;;Santa Maria de Jetibá
+28/03/2019;PP;Prefeitura Municipal de Santa Maria de Jetibá;Henrique;;Santa Maria de Jetibá
+28/03/2019;GC;Unimed;Amanda;;Cachoeiro de Itapemirim
+28/03/2019;GC;Unimed;Marcos;;Cachoeiro de Itapemirim
+28/03/2019;PP;Prefeitura Municipal de Dores do Rio Preto ;Rampazzo;;Dores do Rio Preto 
+28/03/2019;PP;Prefeitura Municipal de Dores do Rio Preto ;Nercilene;;Dores do Rio Preto 
+28/03/2019;GC;Igreja Cristã Maranata ;Marcilene;;Guarapari
+28/03/2019;GC;Igreja Cristã Maranata ;Milla;;Guarapari
+29/03/2019;PP;Prefeitura Municipal de Baixo Guandú;Hevelyse;;Baixo Guandu 
+29/03/2019;PP;Prefeitura Municipal de Baixo Guandú;Rampazzo;;Baixo Guandu 
+29/03/2019;GC; Alupar ;Marcos;;Rio Novo do Sul
+29/03/2019;GC; Alupar ;Amanda;;Rio Novo do Sul
+29/03/2019;GC;Uniaves;Amanda;;Castelo
+29/03/2019;PP;Prefeitura  Municipal de Vila Velha ;Valdirene;;Vila Velha
+29/03/2019;GC;Auto Posto Venturim ;Marcos;160500545;Venda Nova
+01/04/2019;PP;SEDES;Valdirene;;Vitória
+01/04/2019;PP;SEDES;Rampazzo;;Vitória
+01/04/2019;GC;Porto de Vila Velha ;Amanda;;Vila Velha 
+01/04/2019;GC;Porto de Vila Velha ;Henrique;;Vila Velha 
+01/04/2019;GC;UFES;Amanda;;Vitória
+01/04/2019;GC;UFES;Henrique;;Vitória
+01/04/2019;GC;Banestes;Henrique;;Vitória
+01/04/2019;GC;Banestes;Milla;;Vitória
+02/04/2019;PP;Prefeitura Municipal da Serra;Valdirene;;Serra
+02/04/2019;PP;Prefeitura Municipal da Serra;Jorge;;Serra
+02/04/2019;PP;Prefeitura Municipal da Serra;Rampazzo;;Serra
+02/04/2019;GC;CS3;Marcos;9501203;Castelo
+02/04/2019;GC;Líder Comunitário - Cidade Nova Cararapina II;Hevelyse;;Serra
+02/04/2019;GC;Enervix;Amanda;;Rio Novo do Sul
+02/04/2019;GC;Enervix;Henrique;;Rio Novo do Sul
+02/04/2019;GC;Radio Difusora Vale do Cricapé;Henrique;;Nova Venécia 
+03/04/2019;GC;ArcelorMittal;Henrique;;Serra
+03/04/2019;GC;Condominio London Ville;Valdirene;;Vila Velha
+03/04/2019;GC;Hospital São Lucas;Valdirene;;Vitória
+03/04/2019;GC;Radio Difusora Vale do Cricapé;Henrique;;Nova Venécia 
+03/04/2019;GC;Radio Difusora Vale do Cricapé;Amanda;;Nova Venécia 
+03/04/2019;GC;Shopping Praia da Costa;Henrique;;Vila Velha 
+03/04/2019;GC;Shopping Praia da Costa;Amanda;;Vila Velha 
+03/04/2019;GC;Moby Dick ;Valdirene;;Vila Velha 
+03/04/2019;GC;Moby Dick ;Luciene;;Vila Velha 
+04/04/2019;PP;SEDES;Marcos;;Vitória
+04/04/2019;PP;SEDES;Jorge;;Vitória
+04/04/2019;PP;Prefeitura Municipal de Santa Maria de Jetibá;Henrique;;Santa Maria de Jetibá
+04/04/2019;PP;Prefeitura Municipal de Santa Maria de Jetibá;Hevelyse;;Santa Maria de Jetibá
+04/04/2019;PP;Prefeitura Municipal de Cariacica ;Valdirene;;Cariacica
+04/04/2019;GC;Garólo ;Amanda;;Vila Velha 
+04/04/2019;GC;Garólo ;Jorge;;Vila Velha 
+05/04/2019;GC;Restaurante Ponto Grill;Valdirene;160330110;serra
+05/04/2019;GC;Jetiba Embalagens ;Valdirene;;Viana 
+05/04/2019;PP;Gabinete Do Secretário ;Rampazzo;;Vitória 
+08/04/2019;GC;Mineração Ipiranga;Elaine;9501068;Cachoeiro de Itapemirim
+08/04/2019;GC;Vitória Apart;Amanda;;Serra
+09/04/2019;PP;Prefeitura Municipal de Itapemirim;Elaine;;Itapemirim
+09/04/2019;PP;Prefeitura Municipal de Itapemirim;Marcos;;Itapemirim
+09/04/2019;PP;DER ;Patrícia;;Vitória 
+09/04/2019;GC;Autoglass ;Amanda;;Guarapari 
+09/04/2019;PP;Prefeitura Minicipal de Cariacica ;Valdirene;;Cariacica
+10/04/2019;PP;Assembléia Legislativa do ES;Henrique;;Vitória
+10/04/2019;PP;Assembléia Legislativa do ES;Jorge;;Vitória
+10/04/2019;GC;Invelt;Amanda;;Cachoeiro de Itapemirim
+10/04/2019;GC;Jose Maris Pedroni;Marcos;160729505;Vargem Alta
+10/04/2019;GC;Simbraex ;Marcos;9502505;Cachoeiro de Itapemirim
+10/04/2019;GC;São Luiz Mármores e Granitos;Marcos;;Cachoeiro de Itapemirim
+10/04/2019;GC;Agrirrochas;Marcos;1604110346;Cachoeiro de Itapemirim
+10/04/2019;GC;Escola Primeiro Mundo ;Valdirene;160173762;Vitória 
+10/04/2019;GC;Escola Primeiro Mundo ;Juliene;160173762;Vitória 
+10/04/2019;GC;Escola Primeiro Mundo ;Débora;160173762;Vitória 
+10/04/2019;PP ;Assembléia Legislativa do ES;Valdirene;;Vitória
+11/04/2019;GC;Vale ;Amanda;;Vitória 
+11/04/2019;GC;Granitos Castelo ;Marcos;160455947;Castelo 
+11/04/2019;GC;VAMTEC ;Valdirene;;Vitória
+11/04/2019;GC;VAMTEC ;Henrique;;Vitória
+11/04/2019;GC;Cosentino Latino ;Henrique;;Serra
+11/04/2019;GC;Cosentino Latino ;Valdirene;;Serra
+11/04/2019;GC;Fibrasa;Valdirene;;Serra
+11/04/2019;GC;Fibrasa;Henrique;;Serra
+11/04/2019;GC;Nova Forma;Valdirene;;Serra
+11/04/2019;GC;Nova Forma;Henrique;;Serra
+11/04/2019;GC;Antonio Francisco Saiter ;Luciene;160638313;Vitória
+11/04/2019;GC;Antonio Francisco Saiter ;Juliene;160638313;Vitória
+12/04/2019;GC;Loteamento Liberdade ;Amanda;;Cachoeiro de Itapemirim
+12/04/2019;GC;Paranapanema;Henrique;;Vitória 
+12/04/2019;GC;Tecnosteel;Henrique;;Vitória
+12/04/2019;GC;Prysmian ;Valdirene;;Vila Velha
+12/04/2019;GC;Blindex;Valdirene;;Vitória
+12/04/2019;GC;Blindex;Henrique;;Vitória
+15/04/2019;GC;Engelux ;Rampazzo;;Vitória 
+16/04/2019;GC;Madalena Venturini ;Elaine;16075580;Domingos Martins
+16/04/2019;GC;Madalena Venturini ;Luciangela ;16075580;Domingos Martins
+16/04/2019;GC;Madalena Venturini ;Marcos;16075580;Domingos Martins
+16/04/2019;GC;Mais Pedras Granitos do Brasil;Elaine;9501811;Cachoeiro de Itapemirim
+16/04/2019;GC;Mais Pedras Granitos do Brasil;Marcos;9501811;Cachoeiro de Itapemirim
+17/04/2019;GC;JN Granitos;Luciangela ;;Cachoeiro de Itapemirim
+17/04/2019;GC;JN Granitos;Marcos;;Cachoeiro de Itapemirim
+17/04/2019;PP;Prefeitura Municipal de Vitória ;Mariana;;Vitória 
+17/04/2019;PP;Prefeitura Municipal de Vitória ;Valdirene;;Vitória 
+17/04/2019;PP;SEDU;Rampazzo;;Vitória 
+17/04/2019;PP;SEDU;Jorge;;Vitória 
+22/04/2019;GC;ETC - Alupar ;Marcos;;Cachoeiro de Itapemirim
+22/04/2019;GC;ETC - Alupar ;Luciangela ;;Cachoeiro de Itapemirim
+22/04/2019;GC;Aspen Pharma ;Valdirene;9501422;Serra
+22/04/2019;PP;Assembléia Legislativa do ES;Valdirene;;Vitória
+22/04/2019;PP;Assembléia Legislativa do ES;Rampazzo;;Vitória
+22/04/2019;PP;Assesor Senador Marcos ;Rampazzo;;Vitória 
+23/04/2019;GC;Peterfrut;Marcos;9501409;Venda Nova
+23/04/2019;GC;Peterfrut;Elaine;9501409;Venda Nova
+23/04/2019;GC;Sítio Dos Lagos ;Marcos;;Domingos Martins
+23/04/2019;GC;Sítio Dos Lagos ;Elaine;;Domingos Martins
+23/04/2019;GC;BR Malls - Shopping Vila Velha;Amanda;;Vila Velha 
+23/04/2019;PP;Polícia Militar ES;Rampazzo;;Serra
+23/04/2019;GC;SEJUS- Secretaria De Estado Da Justiça ;Valdirene;824412;Vitória 
+24/04/2019;GC;Sovereignty Energy;Amanda;;Linhares
+24/04/2019;GC;Damasco Marmores e Granitos;Elaine;9502656;Cachoeiro de Itapemirim
+24/04/2019;GC;Mineração Ipiranga;Elaine;9501068;Cachoeiro de Itapemirim
+24/04/2019;GC;Becar Petroleo LTDA;Marcos;151782;Guarapari
+24/04/2019;GC;Becar Petroleo LTDA;Elaine;151782;Guarapari
+24/04/2019;GC;AMPG- Associação de Empreendedores De Feu Rosa ;Valdirene;;Serra
+26/04/2019;GC;Clínica São Paulo De Radiologia ;Juliene;160634945;Vitória 
+26/04/2019;GC;Clínica São Paulo De Radiologia ;Valdirene;160634945;Vitória 
+26/04/2019;GC;PBA STONE ;Mariana;160334656;Vitória 
+26/04/2019;GC;PBA STONE ;Valdirene;160334656;Vitória 
+26/04/2019;PP;Prefeitura de Municipal De Vila Velha ;Rampazzo;;Vila Velha
+26/04/2019;GC;WEG;Amanda;;Linhares
+26/04/2019;GC;WEG;Jorge;;Linhares
+26/04/2019;GC;WEG;Marcilene;;Linhares
+26/04/2019;GC;WEG;Valdirene;;Linhares
+26/04/2019;GC;Provale Industria e Comércio ;Marcos;;Cachoeiro de Itapemirim
+26/04/2019;GC;Lar Fit Malini;Marcos;;Guarapari 
+26/04/2019;GC;SB Mineraçã ;Marcos;;Cachoeiro de Itapemirim
+26/04/2019;GC;Imerys ;Marcos;;Cachoeiro de Itapemirim
+02/05/2019;GC;Sorvedoce ;Valdirene;727719;Vila Velha
+02/05/2019;PP;Prefeitura Municipal de Iconha ;Elaine;;Iconha 
+03/05/2019;GC;Welcius Soares Araújo;Valdirene;160591502;Vitória 
+03/05/2019;GC;Welcius Soares Araújo;Elaine;160591502;Vitória 
+03/05/2019;GC;Granfaccin ;Marcos;9502800;Cachoeiro de Itapemirim
+03/05/2019;GC;Fabrica Garoto;Amanda;;Vila Velha
+03/05/2019;GC;Fabrica Garoto;Jorge;;Vila Velha
+03/05/2019;PP;Secretarua De Ação Social;Rampazzo;;Vila Velha 
+06/05/2019;GC;ETC - Alupar ;Marcos;;Cachoeiro de Itapemirim
+06/05/2019;GC;ETC - Alupar ;Elaine;;Cachoeiro de Itapemirim
+06/05/2019;GC;Estel;Henrique;;Aracruz
+06/05/2019;GC;Estel;Marcilene;;Aracruz
+07/05/2019;GC;APAE - Domingos Martins ;Marcos;1612735;Domingos Martins
+07/05/2019;GC;APAE - Cariacica ;Marcos;1068059;Cariacica 
+09/05/2019;PP;Vereador Wanderson Marinho ;Rampazzo;;Vitória 
+09/05/2019;PP;Vereador Wanderson Marinho ;Jorge;;Vitória 
+09/05/2019;PP ;Câmara Municipal de Guaçuí;Marcos;;Guçuí
+09/05/2019;GC;Provale ;Elaine;9500132;Cachoeiro de Itapemirim
+09/05/2019;PP;Prefeitura Municipla de Guaçuí;Marcos;;Guaçuí
+09/05/2019;GC;Sérgio Monteiro Moreira;Henrique;;Vitória
+10/05/2019;PP;Prefeitura Municipal de Vargem Alta ;Rampazzo;;Vargem Alta 
+10/05/2019;PP;Prefeitura Municipal de Vargem Alta ;Nercilene;;Vargem Alta 
+10/05/2019;GC;Uniaves;Marcos;160715999;Venda Nova 
+10/05/2019;GC;Aguiar e Lima;Elaine;160812366;Piúma 
+10/05/2019;GC;Aguiar e Lima;Milla;160812366;Piúma 
+13/05/2019;GC;ArcelorMittal;Henrique;;Serra
+15/05/2019;GC;Marinho Reis ;Marcos;;Guarapari 
+15/05/2019;GC;Marinho Reis ;Elaine;;Guarapari 
+15/05/2019;PP;Prefeitura Municipal de Itapemirim;Elaine;;Itapemirim
+15/05/2019;PP;Prefeitura Municipal de Itapemirim;Rampazzo;;Itapemirim
+15/05/2019;GC;Liberum;Henrique;;Cariacica
+23/05/2019;GC;Multivix ;Marcos;1580624;Vitória
